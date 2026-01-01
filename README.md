@@ -1,4 +1,5 @@
 # Robowars 2025
+![Alt Text](Seiko.jpeg)
 This project was accomplished in collaboration with my friend Arielle Wong. Our main aim was to make a simple sumo bot which is designed to protect itself from heavy attacks and stay inside the arena for as long as possible 
 (Arena in robowars is also called Dohyo). We used the following materials to build the sumo bot. We initially planned on using a PCB (printed circuit board) but ended up making the bot without it.
 
